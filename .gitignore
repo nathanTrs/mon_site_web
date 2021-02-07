@@ -1,8 +1,2 @@
-<<<<<<< HEAD
 tmp/todo.txt
 tmp/*
-*.xml
-=======
-$tmp/*
->>>>>>> a8adfe6 (nettoyage du fichier)
-*.txt
